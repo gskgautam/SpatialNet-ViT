@@ -1,0 +1,9 @@
+torch
+torchvision
+transformers
+scikit-learn
+pillow
+tqdm
+nltk
+rouge-score
+numpy 
