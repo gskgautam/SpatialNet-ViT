@@ -51,3 +51,9 @@ SpatialNet-ViT/
 
 ## Citation
 If you use this code, please cite the original paper and this repository. 
+
+**How Can Multimodal Remote Sensing Datasets Transform Classification via SpatialNet-ViT?**  
+*Gautam Siddharth Kashyap, Manaswi Kulahara, Nipun Joshi, and Usman Naseem*  
+arXiv preprint: [arXiv:2506.22501](https://arxiv.org/abs/2506.22501) (2025)  
+✅ Accepted at the **2025 IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2025)**,  
+Brisbane, Australia (3–8 August 2025)
